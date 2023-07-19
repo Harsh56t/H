@@ -1,5 +1,4 @@
-
-    import java.util.Stack;
+  import java.util.Stack;
      public class stack {
 
     public static void main(String[] args) {
@@ -31,6 +30,3 @@
     }
 
 }
-//writ a java pragram revers all element of stack ?
-//insert a value at the last place of the stack ?
-
