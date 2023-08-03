@@ -1,4 +1,5 @@
 package question_of_recorgen;
+import java.util.Scanner;
 //Question no. 1 
 public class febanaci {
     static int fibonnaci(int x){
@@ -10,6 +11,12 @@ public class febanaci {
         return fibonnaci(x-1)+ fibonnaci(x-2);
     }
     public static void main(String[] args) {
-        System.out.println(fibonnaci(15));
+       
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter fibonnaci no you want:-");
+        int ha=sc.nextInt();
+        System.out.println("your answer is:-");
+        System.out.println(fibonnaci(ha));
+        
     }
 }
