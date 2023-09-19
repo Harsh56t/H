@@ -1,4 +1,4 @@
-package addisnal_work;
+package addisnal_work_Switch_case;
 import java.util.Scanner;
 public class User_input_table {
    
