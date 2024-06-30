@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Data science**
 
 - 📫 How to reach me **ht7789773@email.com**
-- Insta id [kanha_tripathi_56](kanha_tripathi_56)
+- Insta id [kanha_tripathi_56](kanha_56.0)
 - 📄 Know about my experiences [Fresher](Fresher)
 
 - ⚡ Fun fact **I think I am fuuny**
